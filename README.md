@@ -92,6 +92,7 @@ Do it by changing the [build.gradle](../main/ClientApp/build.gradle) file. Provi
 * Declaring rich versions
 * Exclude unnecessary dependency
 * Use resolution strategy
+* Use Locking dependency versions
 
 Explain what each method does. Show pros/contra of each of them.
 
